@@ -17,3 +17,5 @@ EcmaScript 6 show and tell
 [https://github.com/benjamn/pivotal-meetup-talk](https://github.com/benjamn/pivotal-meetup-talk)
 
 [Technical and Social Progress Toward ECMAScript 6 at Facebook](https://github.com/benjamn/fluent2014-talk)
+
+[Understanding ES 6](https://github.com/nzakas/understandinges6)
