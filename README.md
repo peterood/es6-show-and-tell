@@ -3,7 +3,9 @@ es6-show-and-tell
 
 EcmaScript 6 show and tell
 
-###Aggregated resources
+###Resources
+
+[ECMAScript 6 Resources For The Curious JavaScripter](http://addyosmani.com/blog/ecmascript-6-resources-for-the-curious-javascripter/)
 
 [Ben Newman talks about Regenerator, AST, and pushing ES6 features into your apps](http://www.meetup.com/nodejs/events/161765832/)
 
